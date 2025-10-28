@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@mdi/font": "^7.2.96",
+    "ssh2": "^1.17.0",
     "validator": "^13.7.0",
     "vue": "^3.2.45",
     "vuetify": "^3.0.6"
